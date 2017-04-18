@@ -1,0 +1,23 @@
+<svg height="318" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="318" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 10:15:02 +0000   176617 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 10:15:02 +0000     1082 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 10:15:02 +0000     2918 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 10:15:02 +0000     3930 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 10:15:02 +0000      104 bytes  lib/js_runner.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 10:15:02 +0000     1850 bytes  lib/runner.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 10:15:02 +0000      152 bytes  lib/utils.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 10:15:02 +0000    94741 bytes  logo.png</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 10:15:02 +0000     1360 bytes  logo.svg</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 10:15:02 +0000     2958 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 10:15:02 +0000    63762 bytes  stats.png</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 10:15:02 +0000       54 bytes  test/divide.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 10:15:02 +0000       50 bytes  test/divide_es6.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 10:15:02 +0000      511 bytes  test/entry.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 10:15:02 +0000      543 bytes  test/entry_es6.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 10:15:02 +0000       22 bytes  test/styles.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 10:15:02 +0000     1271 bytes  test/webpack.config-js.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 10:15:02 +0000     1309 bytes  test/webpack.config.js</tspan>
+</text>
+</svg>
